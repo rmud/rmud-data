@@ -1,0 +1,85 @@
+Coding and game design:
+    Andrey Fidrya                   [Zmey] (af@zabiyaka.com)
+    Yaroslav Berezovsky                    (escogido@elnet.msk.ru)
+    Danil Lavrentyuk [Eleneldil G. Arilou] (arilou@arilou.org)
+
+Game world creation:
+    Peter Ryabikov
+    Sergey Tanchuk
+    Anna Swiridova
+    Alexey Pyaev
+    Dmitry Esaulkov
+    Sergey Sakulin
+    Alexandr Satirsky
+    Naira Shablovskaya
+    Sergey Skvortsov
+    Oleg Makarenko
+    Alexandr Morozov
+    Dmitry Kochetov
+    Vladimir Shapre
+    Evgeny Kolesnikov
+    Alex Shmelev
+    Andrey Lensky
+    Igor Evlakov
+    Stas Tsarevsky
+Special thanks to Alex Kuklin for hosting of our MUD.
+
+Code conributions to RMUD:
+    Anton Karandeev
+      -- map generation and rendering
+
+Credits to authors of code snippets we were using:
+    Brian Williams - Nashak
+      -- dynamic skill improvement
+    Mark Heilpern
+      -- DG Scripts
+    Imps of World of Carnage - original authors
+    N'Atas-Ha - porting to MERC
+    Moonchilde - porting to Circle
+      -- Mobprogs
+    Desmond Daignault
+      -- mob-plr names
+    David E. Berthiaume Jr.
+      -- newbie equipment arrangement
+    Jvrgen Zigge Sigvardsson
+      -- name abbreviations
+    Burkhard Knopf
+      -- autoequip code
+    Daniel Koepke
+      -- do_who code
+      -- horses code
+
+RMUD is based on CircleMUD.
+
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+CircleMUD is freeware and can be downloaded via anonymous FTP from
+ftp.circlemud.org or ftp2.circlemud.org in pub/CircleMUD.  Its author can
+be contacted at jelson@circlemud.org.
+
+Type HELP CIRCLEMUD for more information.
+
+============================================================================
+
+
+
+                   Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+------------------------------------------------------------------------------
+Additional contributions from Michael Curran, Bill Wisner, Mads Haar, and
+Stephan Dahl.
+
+Originally developed at:
+  DIKU - The Department of Computer Science at the University of Copenhagen.
