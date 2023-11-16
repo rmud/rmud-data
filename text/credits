@@ -1,55 +1,101 @@
-Coding and game design:
-    Andrey Fidrya                   [Zmey] (af@zabiyaka.com)
-    Yaroslav Berezovsky                    (escogido@elnet.msk.ru)
-    Danil Lavrentyuk [Eleneldil G. Arilou] (arilou@arilou.org)
+Существовало несколько версий игры:
 
-Game world creation:
-    Peter Ryabikov
-    Sergey Tanchuk
-    Anna Swiridova
-    Alexey Pyaev
-    Dmitry Esaulkov
-    Sergey Sakulin
-    Alexandr Satirsky
-    Naira Shablovskaya
-    Sergey Skvortsov
-    Oleg Makarenko
-    Alexandr Morozov
-    Dmitry Kochetov
-    Vladimir Shapre
-    Evgeny Kolesnikov
-    Alex Shmelev
-    Andrey Lensky
-    Igor Evlakov
-    Stas Tsarevsky
-Special thanks to Alex Kuklin for hosting of our MUD.
+--------------------------------
+1997 - 2001 RMUD, "Мир Трех Лун"
+--------------------------------
 
-Code conributions to RMUD:
-    Anton Karandeev
-      -- map generation and rendering
+Оригинальная игра, основана на CircleMUD.
 
-Credits to authors of code snippets we were using:
-    Brian Williams - Nashak
-      -- dynamic skill improvement
-    Mark Heilpern
-      -- DG Scripts
-    Imps of World of Carnage - original authors
-    N'Atas-Ha - porting to MERC
-    Moonchilde - porting to Circle
-      -- Mobprogs
-    Desmond Daignault
-      -- mob-plr names
-    David E. Berthiaume Jr.
-      -- newbie equipment arrangement
-    Jvrgen Zigge Sigvardsson
-      -- name abbreviations
-    Burkhard Knopf
-      -- autoequip code
-    Daniel Koepke
-      -- do_who code
-      -- horses code
+Andrii Fidria       - founder, coding
+Yaroslav Berezovsky - game design
+Danil Lavrentyk     - coding
 
-RMUD is based on CircleMUD.
+Создание игрового мира:
+
+Peter Ryabikov
+Sergey Tanchuk
+Anna Swiridova
+Alexey Pyaev
+Dmitry Esaulkov
+Sergey Sakulin
+Alexandr Satirsky
+Lyudmila Batukhina
+Sergey Skvortsov
+Oleg Makarenko
+Alexandr Morozov
+Dmitry Kochetov
+Vladimir Shapre
+Evgeny Kolesnikov
+Alex Shmelev
+Andrey Lensky
+Igor Evlakov
+Stas Tsarevsky
+
+Хостинг:
+
+Roman Isaev
+
+Авторы code snippets, которые мы использовали:
+
+Brian Williams - Nashak
+-- dynamic skill improvement
+Mark Heilpern
+-- DG Scripts
+Imps of World of Carnage - original authors
+N'Atas-Ha - porting to MERC
+Moonchilde - porting to Circle
+-- Mobprogs
+Desmond Daignault
+-- mob-plr names
+David E. Berthiaume Jr.
+-- newbie equipment arrangement
+Jvrgen Zigge Sigvardsson
+-- name abbreviations
+Burkhard Knopf
+-- autoequip code
+Daniel Koepke
+-- do_who code
+-- horses code
+
+------------------------------
+2003 - 2006 "Мир Трех Лун" 2.0
+------------------------------
+
+Существенно переработанная версия RMUD.
+
+Yaroslav Berezovsky - project lead, game design, coding
+
+Сайт проекта: krynn.ru
+
+---------------------
+2003 - 2021 "Graygem"
+---------------------
+
+Ближе к оригинальной версии, развивалась параллельно с МТЛ-2.
+
+Danil Lavrentyk     - project lead, game design, coding
+Evgeniy Demakhin    - head of world building
+
+Хостинг игры:
+Alex Kuklin
+
+С 2016 не развивалась и работала в режиме поддержки, в 2021-м закрыта.
+
+------------
+? "RMUD 2.0"
+------------
+
+Обновленная версия с веб-клиентом и переписанным с нуля движком.
+Разработка ведется с июля 2016 года.
+
+Andrii Fidria       - coding, game design
+Evgeniy Demakhin    - head of world building
+
+Anton Karandeev
+  -- map generation and rendering
+
+
+Информация про CircleMUD:
 
                     C  I  R  C  L  E  M  U  D     3  .  0
 
@@ -66,8 +112,6 @@ be contacted at jelson@circlemud.org.
 Type HELP CIRCLEMUD for more information.
 
 ============================================================================
-
-
 
                    Original game idea, concept, and design:
 
